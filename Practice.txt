@@ -1,0 +1,5 @@
+Epic 8: App Performance and Optimization
+Description: The objective of this epic is to optimize the performance of the Flipkart mobile app. 
+The app's loading speed will be improved to ensure a smooth and seamless shopping experience for users. 
+Regular testing and bug fixing will be conducted to address any performance issues and crashes, enhancing 
+overall app stability and reliability.
